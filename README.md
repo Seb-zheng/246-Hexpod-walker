@@ -1,2 +1,4 @@
 # 246-Hexpod-walker
-CMPE246 Project
+This project focuses on the design and development of a remote-controlled hexapod robot
+based on the Raspberry Pi platform. The robot features six articulated legs driven by servo
+motors, allowing it to perform stable and flexible walking motions
